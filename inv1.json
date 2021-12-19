@@ -1,0 +1,7 @@
+{"designator": "a","name": "Chestplate","desc": "Looks like its made of foil","quantity":5,"price": 77.23,"special": 15}
+{"designator": "a","name": "Boots","desc": "Long leather boots","quantity": 3,"price": 56.54,"special": 12}
+{"designator": "w","name": "Dagger","desc": "A small dagger, Easily Concieled","quantity": 7,"price": 124.14,"special": 23}
+{"designator": "w","name": "Sword","desc": "A normal sword, Feels Balanced","quantity": 4,"price": 345.1,"special": 45}
+{"designator": "h","name": "Large Potion","desc": "Heals a great deal","quantity": 12,"price": 100.0,"special": 50}
+{"designator": "h","name": "Small Potion","desc": "Heals a small amount","quantity": 29,"price": 25.0,"special": 10}
+{"designator": "w","name": "longsword","desc": "Itsalongsword","quantity": 2,"price": 12,"special": 42}
